@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="API/API.csproj" Id="281dea4d-0dab-43f6-ab85-8996f4990941" />
-  <Project Path="Application/Application.csproj" />
-  <Project Path="Domain/Domain.csproj" />
-  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="src/EnterpriseServicePortal.API/EnterprisePortal.API.csproj" />
+  <Project Path="src/EnterpriseServicePortal.Application/EnterprisePortal.Application.csproj" />
+  <Project Path="src/EnterpriseServicePortal.Domain/EnterprisePortal.Domain.csproj" />
+  <Project Path="src/EnterpriseServicePortal.Infrastructure/EnterprisePortal.Infrastructure.csproj" />
 </Solution>

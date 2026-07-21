@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "employee-service-portal-client-side-solution",
+    "id": "fbf03343-e6ce-45fd-a51f-bd69825e0593",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.23.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "EmployeeServicePortal description"
+      },
+      "longDescription": {
+        "default": "EmployeeServicePortal description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "employee-service-portal Feature",
+        "description": "The feature that activates elements of the employee-service-portal solution.",
+        "id": "1ef1ada9-2749-4545-a16f-d2f954a4d550",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/employee-service-portal.sppkg"
+  }
+}

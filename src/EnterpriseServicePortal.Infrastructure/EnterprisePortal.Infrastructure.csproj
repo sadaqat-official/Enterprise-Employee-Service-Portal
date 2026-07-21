@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Application\Application.csproj" />
-    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\EnterpriseServicePortal.Application\EnterprisePortal.Application.csproj" />
+    <ProjectReference Include="..\EnterpriseServicePortal.Domain\EnterprisePortal.Domain.csproj" />
   </ItemGroup>
 
 </Project>
